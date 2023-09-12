@@ -1,0 +1,28 @@
+button.wp-block-search__button.wp-element-button {
+    margin-top: 16px !important;
+}
+@media (max-width:767px){
+button.wp-block-search__button.wp-element-button {
+    margin-right: 10px;
+}
+}
+420px
+header, header .header-content {/* height */}
+
+192dpi
+header .header-content{
+background : #fff url(https://jettalube.com/wp-content/themes/keepitsimple/assets/css/img/header-content-bg.png) no-repeat right top
+}
+
+.slide img {
+    width: 100%;
+    height: 100%;
+}
+
+.slide {
+    max-height: 521px;
+}
+
+img.image.wp-image-1959.attachment-full.size-full {
+    width: 200px;
+}
